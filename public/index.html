@@ -1,0 +1,49 @@
+<!--
+  this code by MisoraKambe, gittanaka
+-->
+<html>
+  <head>
+    <title>streme comment</title>
+    <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #2c3e50;
+    }
+    table {
+      margin-top: 5%;
+      margin-bottom: 5%;
+      height: 80%;
+    }
+    </style>
+  </head>
+  <body>
+    <table id="nicoscreen">
+      <tr>
+        <td>
+          <p align="left">
+            <span align="left"><font size="7" style="color: #ecf0f1;">HTML.CSS</font></span>
+            <input id="slideURL" type="text" value="https://docs.google.com/presentation/d/e/2PACX-1vQmrV5ia40UYFu7obnz1a9Epe5G0GxGToApuQor-wNbyL8fgIDsNQ0OldDxLKJVjwSKBlMSo4G0N1PX/embed?start=false&loop=false&delayms=3000">
+            <button id="set">SET</button>
+          </p>
+        </td>
+        <td>
+          <img align="right" style="height: 50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFgX27YLfJsLofW8MxbUaHiRNjb-AmhkKgGQSSs3eiTnp9vpfh">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <iframe id="slide" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        </td>
+        <td>
+          <button id="gotIt" type="button" style="width: 380px; height: 100px"><font size="5">Got it!</font></button>
+          <button id="umm" type="button" style="width: 380px; height: 100px"><font size="5">Umm...?</font></button>
+        </td>
+      </tr>
+    </table>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+    <script src="./nicoscreen.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
