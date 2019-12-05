@@ -1117,7 +1117,7 @@ action-selector@^1.0.1:
   resolved "https://registry.yarnpkg.com/action-selector/-/action-selector-1.0.1.tgz#5ef40ded3321fd1df92e1536db3d2f2ad0ddc6e1"
   integrity sha1-XvQN7TMh/R35LhU22z0vKtDdxuE=
 
-add-text-to-markdown@^2.0.0:
+add-text-to-markdown@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/add-text-to-markdown/-/add-text-to-markdown-2.0.0.tgz#17f327a459bc8119826ac067fd72db568b146495"
   integrity sha1-F/MnpFm8gRmCasBn/XLbVosUZJU=
@@ -1782,7 +1782,7 @@ comma-separated-tokens@^1.0.1:
   resolved "https://registry.yarnpkg.com/comma-separated-tokens/-/comma-separated-tokens-1.0.7.tgz#419cd7fb3258b1ed838dc0953167a25e152f5b59"
   integrity sha512-Jrx3xsP4pPv4AwJUDWY9wOXGtwPXARej6Xd99h4TUGotmf8APuquKMpK+dnD3UgyxK7OEWaisjZz+3b5jtL6xQ==
 
-commitizen@^4.0.3:
+commitizen@4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/commitizen/-/commitizen-4.0.3.tgz#c19a4213257d0525b85139e2f36db7cc3b4f6dae"
   integrity sha512-lxu0F/Iq4dudoFeIl5pY3h3CQJzkmQuh3ygnaOvqhAD8Wu2pYBI17ofqSuPHNsBTEOh1r1AVa9kR4Hp0FAHKcQ==
@@ -1944,7 +1944,7 @@ cz-conventional-changelog@3.0.1:
   optionalDependencies:
     "@commitlint/load" ">6.1.1"
 
-cz-emoji@^1.1.2:
+cz-emoji@1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/cz-emoji/-/cz-emoji-1.1.2.tgz#310b227a15da85fca34d49c0233ce643ca060285"
   integrity sha512-gbUogFA00AvPT+sqcjPnpLZ8t5R5SeRFHwzbbyvmJpx859VMLJFq0QtUF8D2BPxcjl05TUMZpuJfg7wEElFR9A==
@@ -2157,7 +2157,7 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-documentation@^12.1.4:
+documentation@12.1.4:
   version "12.1.4"
   resolved "https://registry.yarnpkg.com/documentation/-/documentation-12.1.4.tgz#ec0aafbd9d3879a44189d2d4434953ae3a258598"
   integrity sha512-GGS635tR8bBR/m/AuUZ6MCZmFXZA25Wk9S/TTHNe+EMkTCoDdlcft56dZCjF7voCmfnMqKRo8sXAukf/ciA5IA==
@@ -3776,7 +3776,7 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
-kocha@^1.9.1:
+kocha@1.9.1:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/kocha/-/kocha-1.9.1.tgz#e21df63c842ded51a40b25a95eafd30f808a5443"
   integrity sha512-FN/ORjmphV9aaDGkK2a8LfonS74WqxMeGnpgIfQo1lcoy2LGG75brGITkx9SjMrEVq9jtDhMYPQYetdVLjAn7Q==
@@ -5094,7 +5094,7 @@ readdirp@^2.2.1:
     micromatch "^3.1.10"
     readable-stream "^2.0.2"
 
-readme-md-generator@^1.0.0:
+readme-md-generator@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/readme-md-generator/-/readme-md-generator-1.0.0.tgz#51f9f3042a8657c783b006b1307b2f1df92c8f31"
   integrity sha512-K2v858y99S+AH0OTtaCVgEQg47LU6OecKbF1Eu1nDGE2E8QhSYGeLfAKQWwnglm2xtUGn9rjhgK6l2aJHcA8Qg==
@@ -5556,7 +5556,7 @@ sax@^1.2.4:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-semistandard@^14.2.0:
+semistandard@14.2.0:
   version "14.2.0"
   resolved "https://registry.yarnpkg.com/semistandard/-/semistandard-14.2.0.tgz#d722eb1eef7acb33c0e2f5b2e2e4434039dcfc41"
   integrity sha512-mQ0heTpbW7WWBXKOIqitlfEcAZhgGTwaHr1zzv70PnZZc53J+4u31+vLUEsh2oKVWfVgcjrykT2hz02B1Cfaaw==
