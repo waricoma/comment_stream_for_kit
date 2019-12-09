@@ -2,9 +2,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/yarn-%3E%3D1.19.1-blue.svg)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D12.11.1-blue.svg)
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/code4kit/comment_stream_for_kit#readme)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/code4kit/comment_stream_for_kit/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/code4kit/comment_stream_for_kit)](https://github.com/code4kit/comment_stream_for_kit/blob/master/LICENSE)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/waricoma/comment_stream_for_kit#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/waricoma/comment_stream_for_kit/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/code4kit/comment_stream_for_kit)](https://github.com/waricoma/comment_stream_for_kit/blob/master/LICENSE)
 
 > It's assignment in KIT HTML/CSS/JavaScript Class ( Develop simple Web Site )
 
@@ -35,9 +35,9 @@ yarn run test
 
 ## Author
 
-👤 **code4kit**
+👤 **waricoma**
 
-* Github: [@code4kit](https://github.com/code4kit)
+* Github: [@waricoma](https://github.com/waricoma)
 
 ## 🤝 Contributing
 
