@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "add-text-to-markdown": "2.0.0",
-    "commitizen": "4.0.3",
+    "commitizen": "4.2.1",
     "cz-emoji": "1.1.2",
     "documentation": "12.3.0",
     "kocha": "1.9.1",
