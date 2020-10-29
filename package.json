@@ -23,7 +23,7 @@
     "documentation": "13.0.2",
     "kocha": "1.9.1",
     "readme-md-generator": "1.0.0",
-    "semistandard": "14.2.3"
+    "semistandard": "15.0.0"
   },
   "config": {
     "commitizen": {
