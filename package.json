@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@slack/rtm-api": "^5.0.3",
+    "@slack/rtm-api": "^6.0.0",
     "dotenv": "^8.2.0",
     "node-static": "^0.7.11",
     "socket.io": "^2.3.0"
